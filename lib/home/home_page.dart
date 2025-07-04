@@ -8,7 +8,7 @@ class HomePageWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.transparent,
+      backgroundColor: Color(0xFFeef5ff),
       body: Stack(
         children: [
           Image.asset(
